@@ -1,10 +1,10 @@
 def menu_inicial():
     print("+----------------------------------------+")
-    print("|        SISTEMA DE CADASTRO / LOGIN      |")
+    print("|        SISTEMA DE CADASTRO / LOGIN     |")
     print("+----------------------------------------+")
     print("| [1] Cadastrar usuário                  |")
     print("| [2] Login                              |")
-    print("| [3] Estatísticas                      |")
+    print("| [3] Estatísticas                       |")
     print("| [4] Sair                               |")
     print("+----------------------------------------+")
 
